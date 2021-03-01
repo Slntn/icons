@@ -18,7 +18,7 @@ icon {
     text-transform: none;
     line-height: 1;
   
-    /* Better Font Rendering =========== */
+    /* Better Font Rendering */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -27,3 +27,4 @@ icon {
 [name="test"]:before {
     content: "\e901"; 
 }
+
